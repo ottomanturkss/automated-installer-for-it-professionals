@@ -18,9 +18,15 @@ A simple and easy-to-use Windows toolkit to install essential software packages,
 
 ## Installation
 
-1. Clone or download this repository.
-2. Ensure you have PowerShell and necessary permissions to execute scripts.
-3. Run the script in PowerShell to launch the toolkit.
+1. **Download the PowerShell script**:
+   - [Download the toolkit](run.ps1) file.
+
+2. **Run the script**:
+   - Open PowerShell.
+   - Navigate to the folder where the `.ps1` file is located.
+   - Execute the script by running: `.\your-script-name.ps1`.
+
+3. Ensure you have PowerShell and necessary permissions to execute scripts.
 
 ## Usage
 
@@ -32,6 +38,20 @@ A simple and easy-to-use Windows toolkit to install essential software packages,
 4. Click **Install Selected** to begin the installation process.
 
 The toolkit will download the software packages and install them silently.
+
+## Donations
+
+If you appreciate this project and want to support its development, please consider making a donation via the following cryptocurrency addresses:
+
+- **Bitcoin (BTC):** `bc1qj224dp8zcpvh0mc5qvwlu53u7vhsl3qef9yz2c`
+- **Ethereum (ETH):** `0xCcEd5136D711238c4d8089285BcB6BE282a46315`
+- **Polkadot (DOT):** `15ZgdnmYPsdYk5Z2oatj58Rxop8ZJV4qboLVvviv1bqCBUFG`
+- **Tron (TRX):** `TGf4Kgvx9rmj9vqjWajEQEevGcEGwWWrvF`
+- **Solana (SOL):** `3wLYGco5ybKob6LeaN2XT1nfdzFr4N9egFqmiXueueWU`
+- **Binance Coin (BNB):** `0xCcEd5136D711238c4d8089285BcB6BE282a46315`
+- **XRP:** `rDM7BrvfoKKiwQSgV7qGCConA137AyzmRC`
+
+Thank you for your support!
 
 ## Development
 
